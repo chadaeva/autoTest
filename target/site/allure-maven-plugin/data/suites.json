@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "FirstTest",
+    "children" : [ {
+      "name" : "testFirst",
+      "uid" : "20100878e2c6285f",
+      "parentUid" : "be77afd2ef47533f312dace1cf3048c6",
+      "status" : "failed",
+      "time" : {
+        "start" : 1556109019707,
+        "stop" : 1556109065252,
+        "duration" : 45545
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "be77afd2ef47533f312dace1cf3048c6"
+  } ]
+}

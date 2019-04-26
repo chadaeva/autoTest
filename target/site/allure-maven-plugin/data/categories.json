@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "РќРµРІРµСЂРЅС‹Р№ СѓСЂР»",
+      "children" : [ {
+        "name" : "testFirst",
+        "uid" : "20100878e2c6285f",
+        "parentUid" : "770040b8126412aa31b033264be7f6dd",
+        "status" : "failed",
+        "time" : {
+          "start" : 1556109019707,
+          "stop" : 1556109065252,
+          "duration" : 45545
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "770040b8126412aa31b033264be7f6dd"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
